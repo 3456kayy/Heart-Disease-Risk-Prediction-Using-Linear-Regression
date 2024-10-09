@@ -1,17 +1,23 @@
 <h1>Demonstrating Scripting Skills with Bash</h1>
 
 <h2>Description</h2>
-Below is a series of Bash scripts that focus on automating tasks and performing calculations using command-line tools. The scripts demonstrate proficiency in handling user input, applying conditional logic, and performing arithmetic operations with precision. Additionally, the project highlights skills in utilizing core Linux features to manipulate data and automate tasks efficiently. These scripts provide examples of how automation and scripting can simplify  tasks and improve efficiency.
+
+In this project, a dataset containing information on heart disease, biking, and smoking was analyzed to explore the relationships between these variables. The project began with visualizing the data using scatter plots to identify correlations between biking, smoking, and the risk of heart disease. A linear regression model was then built to predict heart disease risk based on biking and smoking data. The data was split into training and test sets to evaluate the model's performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and the R-squared value. These metrics showed that the model had a strong predictive power, with a high R-squared value and acceptable error margins. Finally, predictions were made for new subjects based on their biking and smoking habits, providing an estimate of their potential heart disease risk.
+<br />
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Bash</b>
+- <b>Python</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
-- <b>Ubuntu Linux</b>
+- <b>Anaconda</b>
 
 <h2>Program walk-through:</h2>
+
+The project is attached as a PDF file for you to review, explanations are hashtagged in blue: <br/>
+You can [view the PDF file here](jpm%20vs%20boa%20investment%20analytics.pdf).
+<br />
