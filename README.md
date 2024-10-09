@@ -1,4 +1,4 @@
-<h1>Demonstrating Scripting Skills with Bash</h1>
+<h1>Heart Disease Risk Prediction Using Linear Regression</h1>
 
 <h2>Description</h2>
 
