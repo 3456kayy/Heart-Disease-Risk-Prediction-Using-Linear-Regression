@@ -18,5 +18,5 @@ In this project, a dataset containing information on heart disease, biking, and 
 <h2>Program walk-through:</h2>
 
 The project is attached as a PDF file for you to review, explanations are hashtagged in blue: <br/>
-You can [view the PDF file here](jpm%20vs%20boa%20investment%20analytics.pdf).
+You can [view the PDF file here](Prediction%20with%20Linear%20Regression.pdf).
 <br />
